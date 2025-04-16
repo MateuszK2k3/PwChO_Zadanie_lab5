@@ -1,4 +1,3 @@
-# ZADANIE LAB 5 SPRAWOZDANIE
 ## 1. Polecenie użyte do budowy obrazu
 ```shell
 docker build --build-arg VERSION=1.0.2 -t lab5-web .
